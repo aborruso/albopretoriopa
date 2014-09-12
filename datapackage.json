@@ -27,23 +27,28 @@
                 "fields": [
                     {
                         "name": "numero_protocollo",
-                        "type": "integer"
+                        "type": "integer",
+                        "description": "Numero di protocollo dell'avviso"
                     },
                     {
                         "name": "oggetto",
-                        "type": "string"
+                        "type": "string",
+                        "description": "Oggetto dell'avviso"
                     },
                     {
                         "name": "data_pubblicazione",
-                        "type": "string"
+                        "type": "string",
+                        "description": "Data di pubblicazione dell'avviso"
                     },
                     {
                         "name": "data_fine_pubblicazione",
-                        "type": "string"
+                        "type": "string",
+                        "description": "Data di fine pubblicazione dell'avviso"
                     },
                     {
                         "name": "data_protocollo",
-                        "type": "string"
+                        "type": "string",
+                        "description": "Data del protocollo dell'avviso"
                     }
                 ]
             }
