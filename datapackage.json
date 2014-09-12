@@ -1,6 +1,14 @@
 {
   "title": "Avvisi di Gara - Albo Pretorio Comune Palermo",
   "name": "avvisi_gara",
+  "licenses": [
+    {
+      "id": "CC BY 4.0",
+      "name": "CC BY 4.0",
+      "version": "4",
+      "url": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
   "resources": [
     {
       "name": "avvisi_gara.csv",
