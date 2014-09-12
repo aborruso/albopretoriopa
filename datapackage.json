@@ -1,49 +1,51 @@
 {
-  "title": "Avvisi di Gara - Albo Pretorio Comune Palermo",
-  "name": "avvisi_gara",
-  "licenses": [
-    {
-      "id": "CC BY 4.0",
-      "name": "CC BY 4.0",
-      "version": "4",
-      "url": "http://creativecommons.org/licenses/by/4.0/"
-    }
-  ],
-  "homepage": "https://github.com/SiciliaHub/albopretoriopa/",
-	"sources": [{
-  "name": "Comune Palermo",
-  "web": "http://www.comune.palermo.it/"
-  }],
-  "resources": [
-    {
-      "name": "avvisi_gara.csv",
-      "path": "avvisi_gara.csv",
-      "mediatype": "application/vnd.ms-excel",
-      "bytes": 2310,
-      "schema": {
-        "fields": [
-          {
-            "name": "numero_protocollo",
-            "type": "integer"
-          },
-          {
-            "name": "oggetto",
-            "type": "string"
-          },
-          {
-            "name": "data_pubblicazione",
-            "type": "string"
-          },
-          {
-            "name": "data_fine_pubblicazione",
-            "type": "string"
-          },
-          {
-            "name": "data_protocollo",
-            "type": "string"
-          }
-        ]
-      }
-    }
-  ]
+    "title": "Avvisi di Gara - Albo Pretorio Comune Palermo",
+    "name": "avvisi_gara",
+    "licenses": [
+        {
+            "id": "CC BY 4.0",
+            "name": "CC BY 4.0",
+            "version": "4",
+            "url": "http://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "homepage": "https://github.com/SiciliaHub/albopretoriopa/",
+    "sources": [
+        {
+            "name": "Comune Palermo",
+            "web": "http://www.comune.palermo.it/"
+        }
+    ],
+    "resources": [
+        {
+            "name": "avvisi_gara.csv",
+            "path": "avvisi_gara.csv",
+            "mediatype": "application/vnd.ms-excel",
+            "bytes": 2310,
+            "schema": {
+                "fields": [
+                    {
+                        "name": "numero_protocollo",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "oggetto",
+                        "type": "string"
+                    },
+                    {
+                        "name": "data_pubblicazione",
+                        "type": "string"
+                    },
+                    {
+                        "name": "data_fine_pubblicazione",
+                        "type": "string"
+                    },
+                    {
+                        "name": "data_protocollo",
+                        "type": "string"
+                    }
+                ]
+            }
+        }
+    ]
 }
