@@ -9,6 +9,11 @@
       "url": "http://creativecommons.org/licenses/by/4.0/"
     }
   ],
+  "homepage": "https://github.com/SiciliaHub/albopretoriopa/",
+	"sources": [{
+  "name": "Comune Palermo",
+  "web": "http://www.comune.palermo.it/"
+  }],
   "resources": [
     {
       "name": "avvisi_gara.csv",
