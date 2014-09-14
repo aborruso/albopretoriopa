@@ -10,7 +10,8 @@ Nell'albo pretorio del Comune di Palermo:
 * non c'è un **canale social** in cui sono pubblicati i nuovi avvisi, e non si amplia la diffusione degli stessi;
 * i contenuti dell'albo non sono pubblicati nella sezione **open data**.
 
- ho preso la cassetta degli attrezzi e ho costruito al momento, **per i soli  Avvisi di Gara**,  le seguenti cose:
+Ho preso la cassetta degli attrezzi e ho costruito al momento, **per i soli  Avvisi di Gara**,  le seguenti cose:
+
 * il **[canale twitter](https://twitter.com/albopretoriopa)** che pubblica ogni aggiornamento;
 * il **[feed RSS](http://pipes.yahoo.com/pipes/pipe.run?_id=cf98396256f62f6364df2be5bf5b74e1&_render=rss&urlinput1=http%3A%2F%2Falbopretorio.comune.palermo.it%2Falbopretorio%2Fjsp%2Fhome.jsp%3Fmodo%3Dinfo%26info%3Dscelta_tipo_documento.jsp%26AP%3DAP%26TD%3D60%26ARECOD%3D70)** degli avvisi;
 * una [ricetta IFTTT](https://ifttt.com/recipes/202623-inviami-un-email-per-ogni-avviso-di-gara-dell-albo-pretorio-del-comune-di-palermo) per ricevere un'**email** per ogni nuova pubblicazione;
