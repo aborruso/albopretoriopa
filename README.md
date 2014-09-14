@@ -18,3 +18,5 @@ Ho preso la cassetta degli attrezzi e ho costruito al momento, **per i soli  Avv
 * un **[file CSV](http://bit.ly/albopretoriopa_avvisi)** con gli ultimi avvisi di gara pubblicati (al momento non archivierò tutta la serie).
 
 C'è un limite in tutto questo: non esistendo un indirizzo web - un URL - per il singolo avviso, non è possibile creare un link che porti in modo diretto all'elemento di interesse. Ho forzato pertanto il link ad una [sezione](http://albopretorio.comune.palermo.it/albopretorio/jsp/home.jsp?modo=info&info=scelta_tipo_documento.jsp&AP=AP&TD=60&ARECOD=70) dell'albo e starà poi ad ognuno entrare nella sottosezione "Avviso di Gara", e cercare per "Numero di Protocollo" o "Oggetto".
+
+![How to](/guida/albopretoriopa_01_howto.gif?raw=true "How to")
